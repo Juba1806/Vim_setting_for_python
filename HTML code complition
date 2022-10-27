@@ -1,0 +1,14 @@
+import re
+
+
+def simplify_coding():
+    """copying VS studing in comling code while coding HTML"""
+    x = input("")
+    text = re.compile("<.*>")
+    superx = x[:1] + "/" + x[1:]
+    if text.match(x):
+        return x + superx
+    else:
+        return "something is wrong"
+
+print(simplify_coding())
