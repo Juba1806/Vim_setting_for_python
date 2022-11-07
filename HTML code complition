@@ -12,3 +12,4 @@ def simplify_coding():
         return "something is wrong"
 
 print(simplify_coding())
+
