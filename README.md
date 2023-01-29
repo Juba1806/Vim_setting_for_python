@@ -1,1 +1,1 @@
-<h1>My python vim plugin </h1>
+<h1>My python vim setting </h1>
