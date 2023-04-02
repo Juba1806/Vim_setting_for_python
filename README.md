@@ -1,1 +1,1 @@
-# Simple Vim settings
+# Skip the plugin, embrace the .vimrc!
